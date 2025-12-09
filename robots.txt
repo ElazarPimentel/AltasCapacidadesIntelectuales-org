@@ -1,14 +1,18 @@
-# *
 User-agent: *
 Allow: /
-Disallow: /api/*
-Disallow: /admin/*
-Disallow: /_*
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
 Disallow: /404
 Disallow: /500
 
-# Host
-Host: https://altascapacidadesintelectuales.org
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
 
-# Sitemaps
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+Host: https://altascapacidadesintelectuales.org
 Sitemap: https://altascapacidadesintelectuales.org/sitemap.xml
