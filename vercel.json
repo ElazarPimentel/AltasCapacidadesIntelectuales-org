@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/historia",
+      "destination": "/pages/historia.html",
+      "permanent": true
+    },
+    {
+      "source": "/arquetipos",
+      "destination": "/pages/arquetipos.html",
+      "permanent": true
+    }
+  ]
+}

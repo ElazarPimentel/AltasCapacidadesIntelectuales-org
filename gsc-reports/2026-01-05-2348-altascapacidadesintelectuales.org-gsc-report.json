@@ -1,0 +1,374 @@
+{
+  "site_url": "https://altascapacidadesintelectuales.org/",
+  "generated_at": "2026-01-05T23:48:09.391143",
+  "period": {
+    "start": "2025-12-08",
+    "end": "2026-01-05",
+    "days": 28
+  },
+  "data": {
+    "queries_28d": [
+      {
+        "keys": [
+          "aci"
+        ],
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "aci diagnostico"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "aci: alta capacidad intelectual online latino"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "inteligencia superlativa"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "sinonimo de inusualmente"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 78
+      }
+    ],
+    "pages_28d": [
+      {
+        "keys": [
+          "https://altascapacidadesintelectuales.org/"
+        ],
+        "clicks": 2,
+        "impressions": 26,
+        "ctr": 0.0769,
+        "position": 6.0
+      },
+      {
+        "keys": [
+          "https://altascapacidadesintelectuales.org/arquetipos"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "https://altascapacidadesintelectuales.org/articulos"
+        ],
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 8.6
+      },
+      {
+        "keys": [
+          "https://altascapacidadesintelectuales.org/guia"
+        ],
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 3.2
+      },
+      {
+        "keys": [
+          "https://altascapacidadesintelectuales.org/guia-editorial"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "keys": [
+          "https://altascapacidadesintelectuales.org/historia"
+        ],
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 3.0
+      },
+      {
+        "keys": [
+          "https://altascapacidadesintelectuales.org/legislacion"
+        ],
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 6.3
+      }
+    ],
+    "devices_28d": [
+      {
+        "keys": [
+          "DESKTOP"
+        ],
+        "clicks": 2,
+        "impressions": 26,
+        "ctr": 0.0769,
+        "position": 8
+      },
+      {
+        "keys": [
+          "MOBILE"
+        ],
+        "clicks": 0,
+        "impressions": 42,
+        "ctr": 0,
+        "position": 3.6
+      },
+      {
+        "keys": [
+          "TABLET"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 15
+      }
+    ],
+    "daily_28d": [
+      {
+        "keys": [
+          "2025-12-24"
+        ],
+        "clicks": 1,
+        "impressions": 7,
+        "ctr": 0.1429,
+        "position": 1
+      },
+      {
+        "keys": [
+          "2025-12-25"
+        ],
+        "clicks": 0,
+        "impressions": 13,
+        "ctr": 0,
+        "position": 5.5
+      },
+      {
+        "keys": [
+          "2025-12-26"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "keys": [
+          "2025-12-27"
+        ],
+        "clicks": 1,
+        "impressions": 6,
+        "ctr": 0.1667,
+        "position": 4.3
+      },
+      {
+        "keys": [
+          "2025-12-28"
+        ],
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 2.1
+      },
+      {
+        "keys": [
+          "2025-12-29"
+        ],
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 3.2
+      },
+      {
+        "keys": [
+          "2025-12-30"
+        ],
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 2
+      },
+      {
+        "keys": [
+          "2025-12-31"
+        ],
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 6.6
+      },
+      {
+        "keys": [
+          "2026-01-01"
+        ],
+        "clicks": 0,
+        "impressions": 8,
+        "ctr": 0,
+        "position": 18.2
+      },
+      {
+        "keys": [
+          "2026-01-02"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 1
+      },
+      {
+        "keys": [
+          "2026-01-03"
+        ],
+        "clicks": 0,
+        "impressions": 7,
+        "ctr": 0,
+        "position": 4.9
+      }
+    ],
+    "url_inspection": {
+      "total_inspected": 7,
+      "not_indexed_count": 2,
+      "not_indexed": [
+        {
+          "url": "https://altascapacidadesintelectuales.org/arquetipos",
+          "verdict": "NEUTRAL",
+          "coverageState": "Not found (404)",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2025-12-27T22:37:51Z",
+          "googleCanonical": null,
+          "userCanonical": null,
+          "pageFetchState": "NOT_FOUND"
+        },
+        {
+          "url": "https://altascapacidadesintelectuales.org/historia",
+          "verdict": "NEUTRAL",
+          "coverageState": "Not found (404)",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2026-01-06T02:48:04Z",
+          "googleCanonical": null,
+          "userCanonical": null,
+          "pageFetchState": "NOT_FOUND"
+        }
+      ],
+      "all_results": [
+        {
+          "url": "https://altascapacidadesintelectuales.org/",
+          "verdict": "PASS",
+          "coverageState": "Submitted and indexed",
+          "indexingState": "INDEXING_ALLOWED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2026-01-02T05:09:49Z",
+          "googleCanonical": "https://altascapacidadesintelectuales.org/",
+          "userCanonical": "https://altascapacidadesintelectuales.org/",
+          "pageFetchState": "SUCCESSFUL"
+        },
+        {
+          "url": "https://altascapacidadesintelectuales.org/arquetipos",
+          "verdict": "NEUTRAL",
+          "coverageState": "Not found (404)",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2025-12-27T22:37:51Z",
+          "googleCanonical": null,
+          "userCanonical": null,
+          "pageFetchState": "NOT_FOUND"
+        },
+        {
+          "url": "https://altascapacidadesintelectuales.org/articulos",
+          "verdict": "PASS",
+          "coverageState": "Submitted and indexed",
+          "indexingState": "INDEXING_ALLOWED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2025-12-06T11:08:30Z",
+          "googleCanonical": "https://altascapacidadesintelectuales.org/articulos",
+          "userCanonical": "https://altascapacidadesintelectuales.org/articulos",
+          "pageFetchState": "SUCCESSFUL"
+        },
+        {
+          "url": "https://altascapacidadesintelectuales.org/guia",
+          "verdict": "PASS",
+          "coverageState": "Submitted and indexed",
+          "indexingState": "INDEXING_ALLOWED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2025-12-05T05:51:29Z",
+          "googleCanonical": "https://altascapacidadesintelectuales.org/guia",
+          "userCanonical": "https://altascapacidadesintelectuales.org/guia",
+          "pageFetchState": "SUCCESSFUL"
+        },
+        {
+          "url": "https://altascapacidadesintelectuales.org/guia-editorial",
+          "verdict": "PASS",
+          "coverageState": "Submitted and indexed",
+          "indexingState": "INDEXING_ALLOWED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2025-11-27T23:42:00Z",
+          "googleCanonical": "https://altascapacidadesintelectuales.org/guia-editorial",
+          "userCanonical": "https://altascapacidadesintelectuales.org/guia-editorial",
+          "pageFetchState": "SUCCESSFUL"
+        },
+        {
+          "url": "https://altascapacidadesintelectuales.org/historia",
+          "verdict": "NEUTRAL",
+          "coverageState": "Not found (404)",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2026-01-06T02:48:04Z",
+          "googleCanonical": null,
+          "userCanonical": null,
+          "pageFetchState": "NOT_FOUND"
+        },
+        {
+          "url": "https://altascapacidadesintelectuales.org/legislacion",
+          "verdict": "PASS",
+          "coverageState": "Submitted and indexed",
+          "indexingState": "INDEXING_ALLOWED",
+          "robotsTxtState": "ALLOWED",
+          "lastCrawlTime": "2025-12-07T22:45:07Z",
+          "googleCanonical": "https://altascapacidadesintelectuales.org/legislacion",
+          "userCanonical": "https://altascapacidadesintelectuales.org/legislacion",
+          "pageFetchState": "SUCCESSFUL"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_clicks_28d": 0,
+    "total_impressions_28d": 9,
+    "average_ctr_28d": 0.0,
+    "total_queries": 5,
+    "total_pages": 7,
+    "not_indexed_count": 2
+  },
+  "warnings": [
+    "NOT INDEXED: https://altascapacidadesintelectuales.org/arquetipos - Not found (404)",
+    "NOT INDEXED: https://altascapacidadesintelectuales.org/historia - Not found (404)",
+    "homepage missing in package.json - folder matched by name (unreliable)"
+  ],
+  "folder_name": "altascapacidadesintelectuales-org"
+}
